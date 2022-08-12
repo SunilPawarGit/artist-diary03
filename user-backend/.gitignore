@@ -1,0 +1,6 @@
+# NPM dependencies
+node_modules
+config.env
+
+# If using vscode
+.vscode
